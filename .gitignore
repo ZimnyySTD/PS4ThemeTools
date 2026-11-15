@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build output
+build/
+dist/
+*.spec.bak
+
+# Downloaded binaries (the app fetches these at runtime)
+tools/
+
+# Local projects and packages
+*.pkg
+*.gp4
+
+# OS noise
+Thumbs.db
+desktop.ini
+.DS_Store
