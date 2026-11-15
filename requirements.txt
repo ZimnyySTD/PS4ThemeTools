@@ -1,3 +1,0 @@
-# The application uses Python's standard library at runtime.
-# Optional Windows packaging dependency:
-pyinstaller>=6.0
